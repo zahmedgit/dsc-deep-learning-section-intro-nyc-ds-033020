@@ -21,7 +21,7 @@ You'll learn that deep representation are really good at automating what used to
 
 ### Introduction to Keras
 
-You'll be introced to Keras, open source neural network library in Python, which makes building neural networks surprisingly easy. Before building your first neural network model in Keras, you'll learn about tensors and why they are important when building deep learning models.
+You'll be introduced to Keras, open source neural network library in Python, which makes building neural networks surprisingly easy. Before building your first neural network model in Keras, you'll learn about tensors and why they are important when building deep learning models.
 
 
 ## Summary
