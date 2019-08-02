@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 41 and why they'll be important to you as a data scientist.
+This lesson summarizes the topics we'll be covering in this section and why they'll be important to you as a data scientist.
 
 ## Objectives
 You will be able to:
